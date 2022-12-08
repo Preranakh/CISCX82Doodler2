@@ -5,7 +5,7 @@ So for this, I first require a Canvas to work upon. So, in this app, I created a
 
 Now, at the end when the user is done with the drawing, he might want to clear the canvas and erase everything. So, the delete option is provided for this, which will allow the user to clear the drawings from the canvas.
 
-For the second part,I have added the features like UNDO, REDO, ERASER and added the stroke cap and stroke Join as the properties of the stroke.
+For the second part,I have added the features like UNDO, REDO, working with the eraser mode and added the stroke cap and stroke Join as the properties of the stroke.
 Also added circle colour picker instead of static colour bar at the bottom
 
 
