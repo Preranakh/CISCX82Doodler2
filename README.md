@@ -28,4 +28,8 @@ https://www.youtube.com/watch?v=xGrOHLk60q8
 
 https://developer.android.com/develop/ui/views/layout/custom-views/custom-drawing
 
-https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-11-canvas/11-1a-p-create-a-simple-canvas/11-1a-p-create-a-simple-canvas.html
+https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-11-canvas/11-1a-p-create-a-simple-canvas/11-1a-p-create-a-simple-canvas.
+
+https://stackoverflow.com/questions/10165965/android-fingerpaint-undo-redo-implementation
+
+https://github.com/hpdeveloper28/Paint-App
