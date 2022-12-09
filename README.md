@@ -8,6 +8,13 @@ Now, at the end when the user is done with the drawing, he might want to clear t
 For the second part,I have added the features like UNDO, REDO, working with the eraser mode and added the stroke cap and stroke Join as the properties of the stroke.
 Also added circle colour picker instead of static colour bar at the bottom
 
+How to Run the app
+1. Just clone the repo and you can run it from your local machine.
+2. Open thr folder in android studio
+3. Choose appropriate emulator, for this I have used Pixel 31 API arm64-v8a
+4. Install the packages if any issues and let the gradle build
+5. Hit the green button for run from the top menu and you are all set to go.
+
 
 References Used
 
